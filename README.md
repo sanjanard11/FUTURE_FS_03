@@ -27,6 +27,13 @@ The Brew Haven Café Website is a multi-page business website developed to repre
 - Practice front-end web development skills
 
 ---
+### 📦 Deliverable:
+A live portfolio website with source code hosted on GitHub.
+
+**Developer**: SANJANA RD
+**Internship**: Future Interns - Full Stack Web Development
+
+------
 
 # ✨ Features
 
