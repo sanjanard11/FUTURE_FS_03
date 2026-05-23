@@ -6,7 +6,7 @@ A modern, responsive, and visually appealing café website designed to showcase 
 
 ## 🌐 Live Demo
 
-**Live Website:** https://your-fs3-live-link.surge.sh
+**Live Website:** https://future-fs-03-khaki-eta.vercel.app
 
 **GitHub Repository:** https://github.com/sanjanard11/FUTURE_FS_03
 
